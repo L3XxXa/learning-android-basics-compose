@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test-Compose</string>
+    <string name="birthday_card_image_desc">Birthday card image</string>
+    <string name="from">from %1$s</string>
+    <string name="happy_birthday">Happy Birthday, %1$s</string>
+</resources>
